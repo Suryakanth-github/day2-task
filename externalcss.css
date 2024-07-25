@@ -1,0 +1,23 @@
+body{
+  background-color: lightgreen;
+}
+table,th,td{
+    border: 2px solid black;
+    margin-top: 10%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .Name{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+  }
+  .img{
+    display: block;
+    margin: auto;
+  }
+  ol{
+    background-color: lightgreen;
+    line-height: 30px;
+    width:auto;
+    height:auto;
+  }
